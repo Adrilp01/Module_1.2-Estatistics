@@ -1,0 +1,1 @@
+This project analyzes Airbnb listings in Madrid to predict missing apartment sizes (in square meters). It involves data cleaning, neighborhood clustering, and training a linear regression model to impute missing values.
